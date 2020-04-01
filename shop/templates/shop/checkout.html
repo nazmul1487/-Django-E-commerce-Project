@@ -14,7 +14,7 @@
 
             <nav aria-label="breadcrumb">
   <ol class="breadcrumb mt-3">
-    <li class="breadcrumb-item active" aria-current="page">Your Cart Total is TK.<span id="totalPrice">.Thanks for Using. </span></li>
+      <li class="breadcrumb-item active" aria-current="page"><b>Your Cart Total is TK. <span id="totalPrice">.Thanks for Using. </span></b></li>
   </ol>
 </nav>
 
@@ -95,7 +95,7 @@ else
         let qty = cart[item][0];
         let itemPrice = cart[item][2];
         sum+=qty;
-        totalPrice = totalPrice + qty*itemPrice;
+        totalPrice = totalPrice + qty* itemPrice;
         mystr = `<li class="list-group-item d-flex justify-content-between align-items-center">
                     ${name}
                     <span class="badge badge-primary badge-pill">${qty}</span>

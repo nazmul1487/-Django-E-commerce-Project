@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b44f5a8-c4d2-4224-abc7-556b63fce1d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/E_Commerce_Site/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/E_Commerce_Site/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E_Commerce_Site/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/E_Commerce_Site/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/E_Commerce_Site/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/E_Commerce_Site/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E_Commerce_Site/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/E_Commerce_Site/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/templates/shop/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/shop/basic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop/templates/shop/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/shop/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/templates/shop/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/shop/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop/templates/shop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/shop/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/templates/shop/tracker.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/shop/tracker.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/shop/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,6 +39,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Django_Projects\E_Commerce_Site\media\shop\images" />
+      <recent name="G:\Django_Projects\E_Commerce_Site\E_Commerce_Site" />
+      <recent name="G:\Django_Projects\E_Commerce_Site\E_Commerce_Site\templates" />
       <recent name="G:\Django_Projects\E_Commerce_Site\shop\templates\shop" />
     </key>
   </component>
@@ -109,6 +106,9 @@
       <workItem from="1585336519104" duration="8250000" />
       <workItem from="1585593569689" duration="376000" />
       <workItem from="1585594403896" duration="14347000" />
+      <workItem from="1585654010004" duration="1610000" />
+      <workItem from="1585659470389" duration="1238000" />
+      <workItem from="1585757047378" duration="6487000" />
     </task>
     <servers />
   </component>

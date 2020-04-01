@@ -46,3 +46,13 @@
 
     </div>
 {% endblock %}
+{% block js %}
+    <script>
+            {% if thank %}
+                alert('Thanks for Contacting with us. We will get back to soon!!');
+                document.location = "/shop/contact";
+            {% endif %}
+    </script>
+
+
+{% endblock %}
